@@ -1,0 +1,7 @@
+name: Delight
+version: '${version}'
+main: io.github.nexuskrop.delight.Delight
+api-version: 1.19
+prefix: Delight
+authors: [ NexusKrop ]
+description: Grief nerf-er
