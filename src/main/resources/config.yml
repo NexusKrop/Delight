@@ -1,0 +1,8 @@
+###############################################################################
+#                         DELIGHT PLUGIN CONFIGURATION                        #
+###############################################################################
+# Version: 0.1.1-alpha
+
+antigrief:
+  # Whether to prevent explosions to affect terrain.
+  prevent-explosions: true
