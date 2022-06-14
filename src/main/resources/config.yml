@@ -8,3 +8,7 @@ antigrief:
   prevent-explosions: true
   # Whether to cap block entities per chunk (to prevent chunk-bans)
   cap-block-entities: true
+
+block-entities:
+  max-block-entities: 100
+  max-skulls: 50
