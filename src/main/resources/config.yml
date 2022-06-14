@@ -11,4 +11,8 @@ antigrief:
 
 block-entities:
   max-block-entities: 100
-  max-skulls: 50
+  max-skulls: 10
+  max-banners: 5
+
+messages:
+  too-many-entities: '<red>You are only allowed to place no more than <e-max> "<e-type>"s per chunk!'

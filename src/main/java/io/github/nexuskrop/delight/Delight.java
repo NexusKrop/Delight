@@ -2,6 +2,7 @@ package io.github.nexuskrop.delight;
 
 import io.github.nexuskrop.delight.config.Configuration;
 import io.github.nexuskrop.delight.listeners.BlastProtectListeners;
+import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class Delight extends JavaPlugin {
