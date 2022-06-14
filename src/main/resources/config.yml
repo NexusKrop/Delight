@@ -6,3 +6,5 @@
 antigrief:
   # Whether to prevent explosions to affect terrain.
   prevent-explosions: true
+  # Whether to cap block entities per chunk (to prevent chunk-bans)
+  cap-block-entities: true
